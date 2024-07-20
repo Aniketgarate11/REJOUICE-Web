@@ -20,14 +20,6 @@ This project is a modern, visually engaging website for REJOUICE®️, a digital
 - **GSAP (GreenSock Animation Platform):** For creating smooth animations.
 - **Swiper.js:** For the image carousel functionality.
 
-## Project Structure
-
-
-To document your project structure in a README.md file, you can use a code block with indentation to clearly present the hierarchy. Here's an example of how you can write it:
-
-markdown
-Copy code
-
 
 # Project Structure
 
@@ -68,41 +60,9 @@ Copy code
 
 
 
-Sure! Here's the provided content formatted into a README.md file:
-
-markdown
-Copy code
 # REJOUICE Project
 
-## Project Structure
 
-The project is organized as follows:
-
-REJOUICE/
-├── style.css
-├── index.html
-├── script.js
-├── favicon.png
-├── videos/
-│ ├── Videobackground.mp4
-│ ├── video1.mp4
-│ ├── video2.mp4
-│ ├── video3.mp4
-│ ├── RJ-BALL-BLUE-ORANGE-scaled.webm
-├── images/
-│ ├── homeP_IMG1.avif
-│ ├── homeP_IMG2.avif
-│ ├── homeP_IMG3.avif
-│ ├── swipweImg_1.avif
-│ ├── swiperImg-2.avif
-│ ├── swiperImg-3.avif
-│ ├── swiperImg-4.avif
-│ ├── swiperImg-5.avif
-
-markdown
-Copy code
-
-This structure outlines the main files and directories within the project.
 
 ### File Descriptions
 
@@ -111,17 +71,6 @@ This structure outlines the main files and directories within the project.
 - **script.js**: The main JavaScript file for the project.
 - **favicon.png**: The favicon for the project.
 - **Folders**: Images and videos for the project
-
-
-
-## Setup Instructions
-
-1. **Clone the Repository:**
-   ```bash
-   git clone https://github.com/your-username/REJOUICE.git
-   cd REJOUICE
-Open the Project:
-Open index.html in your preferred web browser to view the website.
 
 
 ## Usage
